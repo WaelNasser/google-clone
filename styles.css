@@ -1,0 +1,71 @@
+body {
+  font-family: "Asap Sharp", sans-serif;
+}
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 15px;
+}
+.menu-icon {
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+.master {
+  height: 90vh;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  gap: 20px;
+}
+
+.nav {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+.nav-link {
+  text-decoration: none;
+  color: #333;
+}
+.logo {
+  width: 400px;
+  height: auto;
+  cursor: pointer;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+input {
+  width: 500px;
+  font-size: 16px;
+  padding: 10px 15px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  outline: none;
+}
+
+.profile {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.search-btn {
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 25px;
+  cursor: pointer;
+}
