@@ -6,17 +6,12 @@ A simple Google homepage clone built using HTML and CSS.
 
 - Google-inspired homepage design
 - Search bar UI
-- Responsive layout (if implemented)
+- Responsive layout 
 
 ## Technologies
 
 - HTML5
 - CSS3
-
-## Getting Started
-
-1. Clone this repository.
-2. Open `index.html` in your browser.
 
 ## Author
 
